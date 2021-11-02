@@ -1,2 +1,5 @@
 # slider
-Learn project
+## Using technology
+- HTML
+- CSS
+- JS
